@@ -1,12 +1,12 @@
 # Topics
-llm
-langchain
-ai-agents
-genai
-fastapi
-docker
-faiss
-multi-agent
+- llm
+- langchain
+- ai-agents
+- genai
+- fastapi
+- docker
+- faiss
+- multi-agent
 
 # 🚀 Advanced Production Multi-Agent AI System
 
